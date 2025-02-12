@@ -1,8 +1,6 @@
 # PruebaT-cnica
 Solución Prueba Técnica
 
-Envio Video Explicacion solucion 
+Se Agrega link Video Explicación Grupal youtube
 
-
-
-https://www.youtube.com/watch?v=ssMNCIUPOLI
+https://www.youtube.com/watch?v=K60yDeacvXA
